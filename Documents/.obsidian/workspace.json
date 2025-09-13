@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifelog/2025-08-24 研究計画を立てる.md",
+                "file": "研究指導/20250909 研究指導.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-24 研究計画を立てる"
+              "title": "20250909 研究指導"
             }
           }
         ]
@@ -166,6 +166,13 @@
   },
   "active": "1d66a9b1c6786004",
   "lastOpenFiles": [
+    "Liu&Chen_2025_Summary.md",
+    "Modeling_Language_Comparison.md",
+    "研究指導の目的7月から続けていた文献レビューの内容を報告すると同時に、現時点で考えているモデル開発の方向性（＝論文の新規性となる部分）を共有して研究の方向性修正話すこと7月から続けていた文献レビューの報告モデル開発の方向性について多層モデル、衛星データの扱い、PFTベースから「形質」ベースに.md",
+    "研究指導/20250909 研究指導.md",
+    "研究指導",
+    "Wang&Braghiere_2023_Summary.md",
+    "Lifelog/2025-08-24 研究計画を立てる.md",
     "Zotero_Articles/Mengoli&Agustí-Panareda_Ecosystem Photosynthesis in_Journal of Advances in Modeling Earth Systems_2022.pdf",
     "Zotero_Articles/Melnikova&Hajima_Amazon dieback beyond the 21st century_Commun Earth Environ_2025.pdf",
     "Zotero_Articles/Meier&Davin_Impacts of a revised surface roughness_Geoscientific Model Development_22.pdf",
@@ -173,19 +180,13 @@
     "Zotero_Articles/Lovenduski&Bonan_Reducing uncertainty in projections of_Environmental Research Letters_2017.pdf",
     "Zotero_Articles/Bachman_An Eigenvalue-Based Framework for_Journal of Advances in Modeling Earth Systems_2024.pdf",
     "Untitled.canvas",
-    "Lifelog/2025-08-24 研究計画を立てる.md",
     "Lifelog/2025-08-16 研究指導記録.md",
-    "Liu&Chen_2025_Summary.md",
     "Norby_Forest_Productivity_Summary.md",
     "Zhang&Zheng_Modelling forest-atmosphere exchanges_Ecological Modelling_2025_Summary.md",
     "Sellers&Mintz_SiB_Summary.md",
     "Sellers&Mintz_A Simple Biosphere Model (SIB) for Use_1986.pdf",
     "Zotero_Articles/Zhang&Xin_Machine Learning-Based Modeling of_Journal of Advances in Modeling Earth Systems_2021.pdf",
     "Zotero_Articles/Dong&Yuan_A global urban tree leaf area index_Sci Data_2025.pdf",
-    "Zotero_Articles/Ruiz-Vásquez&O_Impact of Updating Vegetation_Journal of Geophysical Research Atmospheres_2023.pdf",
-    "Zotero_Articles/Ali&Darvishzadeh_Retrieval of Specific Leaf Area From_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_2017.pdf",
-    "Wang&Braghiere_2023_Summary.md",
-    "Modeling_Language_Comparison.md",
     "Deadline.md",
     "Untitled 1.md",
     "Zong&Yang, 2025.md",
@@ -202,7 +203,6 @@
     "Lifelog/2024-10-02.md",
     "Lifelog/2024-10-11.md",
     "Lifelog/2024-11-11 検索UI関連.md",
-    "Lifelog/2024-10-26.md",
     "Pasted image 20240524174212.png",
     "Pasted image 20240524174123.png",
     "Pasted image 20240524173621.png",
