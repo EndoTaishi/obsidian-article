@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "aaccec342f1c3377",
+    "type": "split",
+    "children": [
+      {
+        "id": "448bcbdaa490707c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d66a9b1c6786004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lifelog/2025-08-24 研究計画を立てる.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-24 研究計画を立てる"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19289adea4d8c585",
+    "type": "split",
+    "children": [
+      {
+        "id": "cec8f63dc3fa5e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0333a152e10166a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0cd7ca2bfb7c7d42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "912212d617b02240",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dccd534f3199346b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c04539b16453bc91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac1bdeab8d61e323",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0bde7828bc5bd9d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lifelog/2024-11-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-12"
+            }
+          },
+          {
+            "id": "8ed1216b287cc463",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "322190cfc797c5fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lifelog/2024-11-12.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-12"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-memos:Thino": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "1d66a9b1c6786004",
+  "lastOpenFiles": [
+    "Zotero_Articles/Mengoli&Agustí-Panareda_Ecosystem Photosynthesis in_Journal of Advances in Modeling Earth Systems_2022.pdf",
+    "Zotero_Articles/Melnikova&Hajima_Amazon dieback beyond the 21st century_Commun Earth Environ_2025.pdf",
+    "Zotero_Articles/Meier&Davin_Impacts of a revised surface roughness_Geoscientific Model Development_22.pdf",
+    "Zotero_Articles/Bonan&Patton_Modeling canopy-induced turbulence in_Geoscientific Model Development_22.pdf",
+    "Zotero_Articles/Lovenduski&Bonan_Reducing uncertainty in projections of_Environmental Research Letters_2017.pdf",
+    "Zotero_Articles/Bachman_An Eigenvalue-Based Framework for_Journal of Advances in Modeling Earth Systems_2024.pdf",
+    "Untitled.canvas",
+    "Lifelog/2025-08-24 研究計画を立てる.md",
+    "Lifelog/2025-08-16 研究指導記録.md",
+    "Liu&Chen_2025_Summary.md",
+    "Norby_Forest_Productivity_Summary.md",
+    "Zhang&Zheng_Modelling forest-atmosphere exchanges_Ecological Modelling_2025_Summary.md",
+    "Sellers&Mintz_SiB_Summary.md",
+    "Sellers&Mintz_A Simple Biosphere Model (SIB) for Use_1986.pdf",
+    "Zotero_Articles/Zhang&Xin_Machine Learning-Based Modeling of_Journal of Advances in Modeling Earth Systems_2021.pdf",
+    "Zotero_Articles/Dong&Yuan_A global urban tree leaf area index_Sci Data_2025.pdf",
+    "Zotero_Articles/Ruiz-Vásquez&O_Impact of Updating Vegetation_Journal of Geophysical Research Atmospheres_2023.pdf",
+    "Zotero_Articles/Ali&Darvishzadeh_Retrieval of Specific Leaf Area From_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_2017.pdf",
+    "Wang&Braghiere_2023_Summary.md",
+    "Modeling_Language_Comparison.md",
+    "Deadline.md",
+    "Untitled 1.md",
+    "Zong&Yang, 2025.md",
+    "Untitled 2.md",
+    "Articles/Wenju, 2023.md",
+    "Articles/Bonan, 2018.md",
+    "Articles/Atsumi, 2015.md",
+    "Articles/Bonan, 2008.md",
+    "Lifelog/2024-08-13.md",
+    "Lifelog/2024-07-18 Mantra Engine立ち上げ.md",
+    "Lifelog/2024-11-18.md",
+    "Lifelog/2024-10-05 UNIXコマンド.md",
+    "Lifelog/2024-10-09.md",
+    "Lifelog/2024-10-02.md",
+    "Lifelog/2024-10-11.md",
+    "Lifelog/2024-11-11 検索UI関連.md",
+    "Lifelog/2024-10-26.md",
+    "Pasted image 20240524174212.png",
+    "Pasted image 20240524174123.png",
+    "Pasted image 20240524173621.png",
+    "Pasted image 20240524173215.png",
+    "Pasted image 20240524173037.png",
+    "Pasted image 20240524171424.png",
+    "Pasted image 20240524171110.png",
+    "Pasted image 20240524164112.png",
+    "Pasted image 20240524164043.png",
+    "Pasted image 20240524164039.png",
+    "Lifelog/無題のファイル.canvas"
+  ]
+}
